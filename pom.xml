@@ -16,6 +16,9 @@
         <module>xiguamall-order</module>
         <module>xiguamall-product</module>
         <module>xiguamall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>xiguamall-common</module>
     </modules>
 
 

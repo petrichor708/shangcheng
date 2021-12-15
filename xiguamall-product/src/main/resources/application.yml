@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: 112659
+    url: jdbc:mysql://192.168.1.103:3306/xiguamall_pms
+    driver-class-name: com.mysql.cj.jdbc.Driver

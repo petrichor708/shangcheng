@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shangcheng.iml" filepath="$PROJECT_DIR$/.idea/shangcheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiguamall-common/xiguamall-common.iml" filepath="$PROJECT_DIR$/xiguamall-common/xiguamall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiguamall-coupon/xiguamall-coupon.iml" filepath="$PROJECT_DIR$/xiguamall-coupon/xiguamall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiguamall-member/xiguamall-member.iml" filepath="$PROJECT_DIR$/xiguamall-member/xiguamall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiguamall-order/xiguamall-order.iml" filepath="$PROJECT_DIR$/xiguamall-order/xiguamall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiguamall-product/xiguamall-product.iml" filepath="$PROJECT_DIR$/xiguamall-product/xiguamall-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiguamall-ware/xiguamall-ware.iml" filepath="$PROJECT_DIR$/xiguamall-ware/xiguamall-ware.iml" />
+    </modules>
+  </component>
+</project>
