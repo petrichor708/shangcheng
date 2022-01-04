@@ -21,7 +21,7 @@
       <module name="renren-fast" target="1.8" />
       <module name="renren-generator" target="1.8" />
       <module name="shangcheng" target="1.5" />
-      <module name="xiguamall-common" target="1.5" />
+      <module name="xiguamall-common" target="7" />
       <module name="xiguamall-coupon" target="1.8" />
       <module name="xiguamall-member" target="1.8" />
       <module name="xiguamall-order" target="1.8" />

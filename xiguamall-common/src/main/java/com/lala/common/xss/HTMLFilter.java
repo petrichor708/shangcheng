@@ -106,7 +106,7 @@ public final class HTMLFilter {
      *
      */
     public HTMLFilter() {
-        vAllowed = new HashMap<String, List<String>>();
+        vAllowed = new HashMap<>();
 
         final ArrayList<String> a_atts = new ArrayList<String>();
         a_atts.add("href");
