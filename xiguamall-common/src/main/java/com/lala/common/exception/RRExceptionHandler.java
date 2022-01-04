@@ -8,7 +8,8 @@
 
 package com.lala.common.exception;
 
-import io.renren.common.utils.R;
+
+import com.lala.common.utils.R;
 import org.apache.shiro.authz.AuthorizationException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
