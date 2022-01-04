@@ -9,7 +9,10 @@
 package com.lala.common.xss;
 
 
-import com.lala.common.utils.RRException;
+
+
+
+import com.lala.common.exception.RRException;
 import org.apache.commons.lang.StringUtils;
 
 /**
