@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
       <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/shangcheng.iml" filepath="$PROJECT_DIR$/.idea/shangcheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shangcheng.iml" filepath="$PROJECT_DIR$/shangcheng.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiguamall-common/xiguamall-common.iml" filepath="$PROJECT_DIR$/xiguamall-common/xiguamall-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiguamall-coupon/xiguamall-coupon.iml" filepath="$PROJECT_DIR$/xiguamall-coupon/xiguamall-coupon.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiguamall-member/xiguamall-member.iml" filepath="$PROJECT_DIR$/xiguamall-member/xiguamall-member.iml" />

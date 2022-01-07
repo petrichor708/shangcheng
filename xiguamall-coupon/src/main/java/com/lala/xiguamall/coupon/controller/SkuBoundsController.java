@@ -3,7 +3,6 @@ package com.lala.xiguamall.coupon.controller;
 import java.util.Arrays;
 import java.util.Map;
 
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -23,7 +22,7 @@ import com.lala.common.utils.R;
  *
  * @author wujimin
  * @email wmm@gmail.com
- * @date 2022-01-04 10:43:58
+ * @date 2022-01-05 11:41:24
  */
 @RestController
 @RequestMapping("coupon/skubounds")
@@ -35,7 +34,6 @@ public class SkuBoundsController {
      * 列表
      */
     @RequestMapping("/list")
-    //@RequiresPermissions("coupon:skubounds:list")
     public R list(@RequestParam Map<String, Object> params){
         PageUtils page = skuBoundsService.queryPage(params);
 
@@ -47,7 +45,6 @@ public class SkuBoundsController {
      * 信息
      */
     @RequestMapping("/info/{id}")
-    //@RequiresPermissions("coupon:skubounds:info")
     public R info(@PathVariable("id") Long id){
 		SkuBoundsEntity skuBounds = skuBoundsService.getById(id);
 
@@ -58,7 +55,6 @@ public class SkuBoundsController {
      * 保存
      */
     @RequestMapping("/save")
-    //@RequiresPermissions("coupon:skubounds:save")
     public R save(@RequestBody SkuBoundsEntity skuBounds){
 		skuBoundsService.save(skuBounds);
 
@@ -69,7 +65,6 @@ public class SkuBoundsController {
      * 修改
      */
     @RequestMapping("/update")
-    //@RequiresPermissions("coupon:skubounds:update")
     public R update(@RequestBody SkuBoundsEntity skuBounds){
 		skuBoundsService.updateById(skuBounds);
 
@@ -80,7 +75,6 @@ public class SkuBoundsController {
      * 删除
      */
     @RequestMapping("/delete")
-    //@RequiresPermissions("coupon:skubounds:delete")
     public R delete(@RequestBody Long[] ids){
 		skuBoundsService.removeByIds(Arrays.asList(ids));
 

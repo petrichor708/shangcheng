@@ -10,10 +10,10 @@ import lombok.Data;
 
 /**
  * 商品sku积分设置
- * 
+ *
  * @author wujimin
  * @email wmm@gmail.com
- * @date 2022-01-04 10:43:58
+ * @date 2022-01-05 11:41:24
  */
 @Data
 @TableName("sms_sku_bounds")
@@ -26,7 +26,7 @@ public class SkuBoundsEntity implements Serializable {
 	@TableId
 	private Long id;
 	/**
-	 * 
+	 *
 	 */
 	private Long skuId;
 	/**

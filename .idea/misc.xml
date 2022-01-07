@@ -7,10 +7,10 @@
         <option value="$PROJECT_DIR$/xiguamall-ware/pom.xml" />
         <option value="$PROJECT_DIR$/xiguamall-order/pom.xml" />
         <option value="$PROJECT_DIR$/xiguamall-member/pom.xml" />
-        <option value="$PROJECT_DIR$/xiguamall-coupon/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/renren-fast/pom.xml" />
         <option value="$PROJECT_DIR$/renren-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/xiguamall-common/pom.xml" />
       </list>
     </option>
   </component>

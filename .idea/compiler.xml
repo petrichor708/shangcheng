@@ -23,6 +23,7 @@
       <module name="shangcheng" target="1.5" />
       <module name="xiguamall-common" target="7" />
       <module name="xiguamall-coupon" target="1.8" />
+      <module name="xiguamall-gateway" target="1.5" />
       <module name="xiguamall-member" target="1.8" />
       <module name="xiguamall-order" target="1.8" />
       <module name="xiguamall-product" target="1.8" />
