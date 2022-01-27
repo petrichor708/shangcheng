@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: test_route01
+          uri: https://www.bilibili.com
+          predicates:
+            - Query=url,bilibili
+
+        - id: test_route02
+          uri: https://www.4399.com
+          predicates:
+            - Query=url,4399

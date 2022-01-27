@@ -14,6 +14,7 @@
         <module name="renren-fast" />
         <module name="xiguamall-product" />
         <module name="xiguamall-ware" />
+        <module name="xiguamall-gateway" />
         <module name="renren-generator" />
       </profile>
     </annotationProcessing>
@@ -23,7 +24,7 @@
       <module name="shangcheng" target="1.5" />
       <module name="xiguamall-common" target="7" />
       <module name="xiguamall-coupon" target="1.8" />
-      <module name="xiguamall-gateway" target="1.5" />
+      <module name="xiguamall-gateway" target="1.8" />
       <module name="xiguamall-member" target="1.8" />
       <module name="xiguamall-order" target="1.8" />
       <module name="xiguamall-product" target="1.8" />
@@ -35,6 +36,7 @@
       <module name="renren-fast" options="-parameters" />
       <module name="renren-generator" options="-parameters" />
       <module name="xiguamall-coupon" options="-parameters" />
+      <module name="xiguamall-gateway" options="-parameters" />
       <module name="xiguamall-member" options="-parameters" />
       <module name="xiguamall-order" options="-parameters" />
       <module name="xiguamall-product" options="-parameters" />
