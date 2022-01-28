@@ -8,7 +8,9 @@
 
 package io.renren.common.validator;
 
-import io.renren.common.exception.RRException;
+
+
+import com.lala.common.exception.RRException;
 
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;

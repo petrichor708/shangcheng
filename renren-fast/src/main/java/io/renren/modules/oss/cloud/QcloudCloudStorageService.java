@@ -10,11 +10,12 @@ package io.renren.modules.oss.cloud;
 
 
 import com.alibaba.fastjson.JSONObject;
+import com.lala.common.exception.RRException;
 import com.qcloud.cos.COSClient;
 import com.qcloud.cos.ClientConfig;
 import com.qcloud.cos.request.UploadFileRequest;
 import com.qcloud.cos.sign.Credentials;
-import io.renren.common.exception.RRException;
+
 import org.apache.commons.io.IOUtils;
 
 import java.io.IOException;

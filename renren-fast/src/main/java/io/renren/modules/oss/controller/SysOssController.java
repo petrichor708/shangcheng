@@ -9,7 +9,8 @@
 package io.renren.modules.oss.controller;
 
 import com.google.gson.Gson;
-import io.renren.common.exception.RRException;
+
+import com.lala.common.exception.RRException;
 import io.renren.common.utils.ConfigConstant;
 import io.renren.common.utils.Constant;
 import io.renren.common.utils.PageUtils;

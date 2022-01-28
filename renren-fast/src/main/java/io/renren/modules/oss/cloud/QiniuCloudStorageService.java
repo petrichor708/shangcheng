@@ -8,12 +8,13 @@
 
 package io.renren.modules.oss.cloud;
 
+import com.lala.common.exception.RRException;
 import com.qiniu.common.Zone;
 import com.qiniu.http.Response;
 import com.qiniu.storage.Configuration;
 import com.qiniu.storage.UploadManager;
 import com.qiniu.util.Auth;
-import io.renren.common.exception.RRException;
+
 import org.apache.commons.io.IOUtils;
 
 import java.io.IOException;
